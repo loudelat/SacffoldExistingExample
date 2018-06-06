@@ -1,0 +1,11 @@
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/bin/Debug/netcoreapp2.0/SacffoldExistingExample.deps.json
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/bin/Debug/netcoreapp2.0/SacffoldExistingExample.runtimeconfig.json
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/bin/Debug/netcoreapp2.0/SacffoldExistingExample.runtimeconfig.dev.json
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/bin/Debug/netcoreapp2.0/SacffoldExistingExample.dll
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/bin/Debug/netcoreapp2.0/SacffoldExistingExample.pdb
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.csprojResolveAssemblyReference.cache
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.csproj.CoreCompileInputs.cache
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.AssemblyInfoInputs.cache
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.AssemblyInfo.cs
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.dll
+/Users/loudelat/Projects/SacffoldExistingExample/SacffoldExistingExample/obj/Debug/netcoreapp2.0/SacffoldExistingExample.pdb
